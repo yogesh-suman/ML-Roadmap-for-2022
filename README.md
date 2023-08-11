@@ -256,7 +256,7 @@ This is the level where you would dive into different domains of Machine Learnin
          5. Building a Chatbot - https://www.youtube.com/watch?v=Nb21OhaW8GY
 9. #### Time Series(Coming Soon)
 10. #### Computer Vision(Coming Soon)
-11. #### Fundamentals of Neural Network - https://www.youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn
+11. #### Fundamentals of Neural Network - https://www.youtube.com/watch?v=P4xizq3CiJg&list=RDCMUCCWi3hpnq_Pe03nGxuS7isg&start_radio=1&rv=P4xizq3CiJg&t=0
 
 
 ## 5. Pushing it with Projects (Est. time 6-8 Weeks)
